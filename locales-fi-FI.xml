@@ -11,6 +11,9 @@
       <name>villelahtinen</name>
     </translator>
     <translator>
+      <name>Piia Bartos</name>
+    </translator>
+    <translator>
       <name>Juhana Venäläinen</name>
     </translator>
     <translator>
@@ -36,7 +39,7 @@
   <terms>
     <!-- LONG GENERAL TERMS -->
     <term name="accessed">viitattu</term>
-    <term name="advance-online-publication">advance online publication</term>
+    <term name="advance-online-publication">ennakkoverkkojulkaisu</term>
     <term name="album">albumi</term>
     <term name="and">ja</term>
     <term name="and others">ym.</term>
@@ -48,10 +51,10 @@
     <term name="circa">noin</term>
     <term name="cited">viitattu</term>
     <term name="et-al">ym.</term>
-    <term name="film">film</term>
+    <term name="film">video</term>
     <term name="forthcoming">tulossa</term>
     <term name="from">osoitteesta</term>
-    <term name="henceforth">henceforth</term>
+    <term name="henceforth">vastedes</term>
     <term name="ibid">mt.</term>
     <term name="in">teoksessa</term>
     <term name="in press">painossa</term>
@@ -59,77 +62,77 @@
     <term name="letter">kirje</term>
     <term name="loc-cit">loc. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
     <term name="no date">ei päivämäärää</term>
-    <term name="no-place">no place</term>
-    <term name="no-publisher">no publisher</term> <!-- sine nomine -->
-    <term name="on">on</term>
+    <term name="no-place">ei paikkaa</term>
+    <term name="no-publisher">ei julkaisijaa</term> <!-- sine nomine -->
+    <term name="on">on</term> <!-- there is no Finnish equivalent for this -->
     <term name="online">verkossa</term>
     <term name="op-cit">op. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
-    <term name="original-work-published">original work published</term>
+    <term name="original-work-published">alkuperäinen julkaisu</term>
     <term name="personal-communication">henkilökohtainen viestintä</term>
     <term name="podcast">podcast</term>
-    <term name="podcast-episode">podcast episode</term>
-    <term name="preprint">preprint</term>
+    <term name="podcast-episode">podcastin jakso</term>
+    <term name="preprint">esijulkaisu</term>
     <term name="presented at">esitetty tilaisuudessa</term>
     <term name="radio-broadcast">radiolähetys</term>
-    <term name="radio-series">radio series</term>
-    <term name="radio-series-episode">radio series episode</term>
+    <term name="radio-series">radiosarja</term>
+    <term name="radio-series-episode">radiosarjan jakso</term>
     <term name="reference">
       <single>viittaus</single>
       <multiple>viittaukset</multiple>
     </term>
     <term name="retrieved">noudettu</term>
-    <term name="review-of">review of</term>
+    <term name="review-of">katsaus</term>
     <term name="scale">mittakaava</term>
     <term name="special-issue">erikoisnumero</term>
-    <term name="special-section">special section</term>
+    <term name="special-section">erikoisosa</term>
     <term name="television-broadcast">televisiolähetys</term>
     <term name="television-series">televisiosarja</term>
     <term name="television-series-episode">televisiosarjan jakso</term>
     <term name="video">video</term>
-    <term name="working-paper">working paper</term>
+    <term name="working-paper">valmisteluasiakirja</term>
 
     <!-- SHORT GENERAL TERMS -->
     <term name="anonymous" form="short">tuntematon</term>
     <term name="circa" form="short">n.</term>
     <term name="no date" form="short">ei pvm.</term>
-    <term name="no-place" form="short">n.p.</term>
-    <term name="no-publisher" form="short">n.p.</term>
+    <term name="no-place" form="short">ei paik.</term>
+    <term name="no-publisher" form="short">ei julk.</term>
     <term name="reference" form="short">
       <single>viit.</single>
       <multiple>viit.</multiple>
     </term>
-    <term name="review-of" form="short">rev. of</term>
+    <term name="review-of" form="short">katsaus</term>
 
     <!-- SYMBOLIC GENERAL FORMS -->
 
     <!-- LONG ITEM TYPE FORMS -->
-    <term name="article">preprint</term>
-    <term name="article-journal">journal article</term>
-    <term name="article-magazine">magazine article</term>
-    <term name="article-newspaper">newspaper article</term>
-    <term name="bill">bill</term>
+    <term name="article">julkaisu</term>
+    <term name="article-journal">lehtijulkaisu</term>
+    <term name="article-magazine">aikakauslehtijulkaisu</term>
+    <term name="article-newspaper">sanomalehtijulkaisu</term>
+    <term name="bill">lakialoite</term> 
     <!-- book is in the list of locator terms -->
     <term name="broadcast">lähetys</term>
     <!-- chapter is in the list of locator terms -->
-    <term name="classic">classic</term>
-    <term name="collection">collection</term>
-    <term name="dataset">dataset</term>
-    <term name="document">document</term>
-    <term name="entry">entry</term>
-    <term name="entry-dictionary">dictionary entry</term>
-    <term name="entry-encyclopedia">encyclopedia entry</term>
-    <term name="event">event</term>
+    <term name="classic">klassikko</term>
+    <term name="collection">kokoelma</term>
+    <term name="dataset">datasetti</term>
+    <term name="document">asiakirja</term>
+    <term name="entry">merkintä</term>
+    <term name="entry-dictionary">sanakirjan hakusana-artikkeli</term>
+    <term name="entry-encyclopedia">tietosanakirjan hakusana-artikkeli</term>
+    <term name="event">tapahtuma</term>
     <!-- figure is in the list of locator terms -->
-    <term name="graphic">graphic</term>
-    <term name="hearing">hearing</term>
+    <term name="graphic">piirros</term>
+    <term name="hearing">kuuleminen</term>
     <term name="interview">haastattelu</term>
-    <term name="legal_case">legal case</term>
-    <term name="legislation">legislation</term>
+    <term name="legal_case">oikeustapaus</term>
+    <term name="legislation">lainsäädäntö</term>
     <term name="manuscript">käsikirjoitus</term>
     <term name="map">kartta</term>
     <term name="motion_picture">videotallenne</term>
-    <term name="musical_score">musical score</term>
-    <term name="pamphlet">pamphlet</term>
+    <term name="musical_score">musiikki</term>
+    <term name="pamphlet">pamfletti</term>
     <term name="paper-conference">conference paper</term>
     <term name="patent">patentti</term>
     <term name="performance">esitys</term>
